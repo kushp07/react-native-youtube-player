@@ -25,10 +25,10 @@ const styles = StyleSheet.create({
   },
   wrapper: {
     height: 0,
-    width: 0
+    width: 0,
 
     //paddingTop: 30,
-    backgroundColor: "#000",
+    backgroundColor: "#000"
   }
 });
 
