@@ -3,11 +3,6 @@ import { VideoSize } from "./Utils";
 
 const styles = StyleSheet.create({
   inline: {
-    //flex: 0,
-    zIndex: 99,
-    elevation: 1,
-    backgroundColor: "#000",
-    ...StyleSheet.absoluteFillObject
   },
   fullScreen: {
     ...StyleSheet.absoluteFillObject,
