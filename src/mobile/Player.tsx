@@ -246,8 +246,8 @@ export default class Player extends PureComponent<PlayerProps, PlayerState> {
       );
     else
       return (
-        <View style={styles.wrapper} onLayout={this.onLayout}>
-          <Animated.View style={style}>
+        <View>
+          <Animated.View >
             <PlayerView
               videoId={videoId}
               autoPlay={autoPlay}
