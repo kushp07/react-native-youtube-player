@@ -1,5 +1,4 @@
 import { StyleSheet } from "react-native";
-import { VideoSize } from "./Utils";
 
 const styles = StyleSheet.create({
   inline: {
