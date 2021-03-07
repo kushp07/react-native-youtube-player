@@ -29,7 +29,6 @@ const styles = StyleSheet.create({
 
     //paddingTop: 30,
     backgroundColor: "#000",
-    overflow: "visible"
   }
 });
 
