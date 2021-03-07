@@ -24,9 +24,8 @@ const styles = StyleSheet.create({
     borderRadius: 15
   },
   wrapper: {
-    height: VideoSize.inline.height,
-    width: VideoSize.inline.width,
-    zIndex: 100,
+    height: 0,
+    width: 0
 
     //paddingTop: 30,
     backgroundColor: "#000",
